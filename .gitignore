@@ -1,0 +1,8 @@
+/.vs/Number Wizard Console/v16/
+/Library/
+/Logs/
+/UserSettings/
+/obj/Debug/
+*.vsconfig
+*.csproj
+*.sln
